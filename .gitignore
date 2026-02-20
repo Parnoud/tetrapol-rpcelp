@@ -1,0 +1,5 @@
+*.pyc
+*.raw
+*.wav
+*.json
+__pycache__
